@@ -1,0 +1,749 @@
+{
+"shots": [
+{
+"x": 26,
+"y": 6,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 30,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 6,
+"made": "made"
+},
+{
+"x": 12,
+"y": 12,
+"made": "missed"
+},
+{
+"x": 39,
+"y": 8,
+"made": "missed"
+},
+{
+"x": 22,
+"y": 8,
+"made": "made"
+},
+{
+"x": 26,
+"y": 6,
+"made": "missed"
+},
+{
+"x": 42,
+"y": 13,
+"made": "made"
+},
+{
+"x": 9,
+"y": 18,
+"made": "missed"
+},
+{
+"x": 26,
+"y": 6,
+"made": "made"
+},
+{
+"x": 3,
+"y": 7,
+"made": "made"
+},
+{
+"x": 12,
+"y": 27,
+"made": "made"
+},
+{
+"x": 24,
+"y": 5,
+"made": "made"
+},
+{
+"x": 25,
+"y": 15,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 6,
+"made": "made"
+},
+{
+"x": 26,
+"y": 6,
+"made": "made"
+},
+{
+"x": 24,
+"y": 15,
+"made": "missed"
+},
+{
+"x": 45,
+"y": 21,
+"made": "made"
+},
+{
+"x": 25,
+"y": 7,
+"made": "made"
+},
+{
+"x": 25,
+"y": 6,
+"made": "made"
+},
+{
+"x": 9,
+"y": 19,
+"made": "missed"
+},
+{
+"x": 11,
+"y": 10,
+"made": "made"
+},
+{
+"x": 16,
+"y": 26,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 5,
+"made": "made"
+},
+{
+"x": 39,
+"y": 13,
+"made": "made"
+},
+{
+"x": 23,
+"y": 6,
+"made": "missed"
+},
+{
+"x": 41,
+"y": 7,
+"made": "missed"
+},
+{
+"x": 49,
+"y": 6,
+"made": "made"
+},
+{
+"x": 26,
+"y": 31,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 6,
+"made": "made"
+},
+{
+"x": 14,
+"y": 23,
+"made": "missed"
+},
+{
+"x": 14,
+"y": 9,
+"made": "missed"
+},
+{
+"x": 12,
+"y": 26,
+"made": "missed"
+},
+{
+"x": 2,
+"y": 7,
+"made": "missed"
+},
+{
+"x": 18,
+"y": 30,
+"made": "missed"
+},
+{
+"x": 21,
+"y": 16,
+"made": "missed"
+},
+{
+"x": 16,
+"y": 30,
+"made": "missed"
+},
+{
+"x": 9,
+"y": 17,
+"made": "made"
+},
+{
+"x": 9,
+"y": 14,
+"made": "made"
+},
+{
+"x": 26,
+"y": 5,
+"made": "made"
+},
+{
+"x": 32,
+"y": 9,
+"made": "made"
+},
+{
+"x": 19,
+"y": 9,
+"made": "missed"
+},
+{
+"x": 13,
+"y": 12,
+"made": "made"
+},
+{
+"x": 36,
+"y": 21,
+"made": "missed"
+},
+{
+"x": 44,
+"y": 8,
+"made": "made"
+},
+{
+"x": 14,
+"y": 21,
+"made": "made"
+},
+{
+"x": 12,
+"y": 19,
+"made": "missed"
+},
+{
+"x": 2,
+"y": 8,
+"made": "made"
+},
+{
+"x": 25,
+"y": 6,
+"made": "made"
+},
+{
+"x": 26,
+"y": 8,
+"made": "missed"
+},
+{
+"x": 26,
+"y": 8,
+"made": "made"
+},
+{
+"x": 26,
+"y": 8,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 6,
+"made": "made"
+},
+{
+"x": 36,
+"y": 20,
+"made": "made"
+},
+{
+"x": 21,
+"y": 14,
+"made": "missed"
+},
+{
+"x": 28,
+"y": 14,
+"made": "made"
+},
+{
+"x": 25,
+"y": 7,
+"made": "missed"
+},
+{
+"x": 24,
+"y": 10,
+"made": "missed"
+},
+{
+"x": 15,
+"y": 12,
+"made": "missed"
+},
+{
+"x": 11,
+"y": 25,
+"made": "missed"
+},
+{
+"x": 49,
+"y": 8,
+"made": "made"
+},
+{
+"x": 26,
+"y": 6,
+"made": "made"
+},
+{
+"x": 27,
+"y": 6,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 6,
+"made": "made"
+},
+{
+"x": 26,
+"y": 6,
+"made": "made"
+},
+{
+"x": 11,
+"y": 10,
+"made": "made"
+},
+{
+"x": 20,
+"y": 8,
+"made": "missed"
+},
+{
+"x": 40,
+"y": 26,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 6,
+"made": "missed"
+},
+{
+"x": 21,
+"y": 31,
+"made": "missed"
+},
+{
+"x": 37,
+"y": 7,
+"made": "made"
+},
+{
+"x": 25,
+"y": 9,
+"made": "missed"
+},
+{
+"x": 41,
+"y": 27,
+"made": "made"
+},
+{
+"x": 25,
+"y": 7,
+"made": "missed"
+},
+{
+"x": 24,
+"y": 7,
+"made": "made"
+},
+{
+"x": 26,
+"y": 6,
+"made": "missed"
+},
+{
+"x": 43,
+"y": 24,
+"made": "made"
+},
+{
+"x": 26,
+"y": 9,
+"made": "made"
+},
+{
+"x": 15,
+"y": 25,
+"made": "made"
+},
+{
+"x": 19,
+"y": 14,
+"made": "missed"
+},
+{
+"x": 29,
+"y": 8,
+"made": "missed"
+},
+{
+"x": 15,
+"y": 24,
+"made": "made"
+},
+{
+"x": 25,
+"y": 10,
+"made": "missed"
+},
+{
+"x": 24,
+"y": 6,
+"made": "made"
+},
+{
+"x": 17,
+"y": 11,
+"made": "missed"
+},
+{
+"x": 28,
+"y": 5,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 7,
+"made": "made"
+},
+{
+"x": 41,
+"y": 16,
+"made": "missed"
+},
+{
+"x": 13,
+"y": 21,
+"made": "missed"
+},
+{
+"x": 23,
+"y": 7,
+"made": "made"
+},
+{
+"x": 29,
+"y": 10,
+"made": "made"
+},
+{
+"x": 29,
+"y": 31,
+"made": "missed"
+},
+{
+"x": 32,
+"y": 26,
+"made": "missed"
+},
+{
+"x": 11,
+"y": 19,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 6,
+"made": "made"
+},
+{
+"x": 39,
+"y": 11,
+"made": "missed"
+},
+{
+"x": 40,
+"y": 15,
+"made": "missed"
+},
+{
+"x": 49,
+"y": 7,
+"made": "made"
+},
+{
+"x": 23,
+"y": 6,
+"made": "made"
+},
+{
+"x": 30,
+"y": 9,
+"made": "made"
+},
+{
+"x": 48,
+"y": 6,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 11,
+"made": "missed"
+},
+{
+"x": 26,
+"y": 7,
+"made": "made"
+},
+{
+"x": 27,
+"y": 7,
+"made": "missed"
+},
+{
+"x": 9,
+"y": 25,
+"made": "missed"
+},
+{
+"x": 11,
+"y": 26,
+"made": "missed"
+},
+{
+"x": 24,
+"y": 6,
+"made": "made"
+},
+{
+"x": 35,
+"y": 10,
+"made": "missed"
+},
+{
+"x": 35,
+"y": 22,
+"made": "missed"
+},
+{
+"x": 40,
+"y": 5,
+"made": "made"
+},
+{
+"x": 34,
+"y": 30,
+"made": "missed"
+},
+{
+"x": 39,
+"y": 20,
+"made": "missed"
+},
+{
+"x": 24,
+"y": 8,
+"made": "made"
+},
+{
+"x": 23,
+"y": 23,
+"made": "missed"
+},
+{
+"x": 34,
+"y": 9,
+"made": "made"
+},
+{
+"x": 35,
+"y": 32,
+"made": "made"
+},
+{
+"x": 27,
+"y": 32,
+"made": "missed"
+},
+{
+"x": 16,
+"y": 21,
+"made": "missed"
+},
+{
+"x": 23,
+"y": 22,
+"made": "missed"
+},
+{
+"x": 38,
+"y": 28,
+"made": "made"
+},
+{
+"x": 24,
+"y": 7,
+"made": "made"
+},
+{
+"x": 43,
+"y": 23,
+"made": "missed"
+},
+{
+"x": 40,
+"y": 19,
+"made": "missed"
+},
+{
+"x": 36,
+"y": 19,
+"made": "missed"
+},
+{
+"x": 37,
+"y": 17,
+"made": "missed"
+},
+{
+"x": 17,
+"y": 11,
+"made": "missed"
+},
+{
+"x": 26,
+"y": 8,
+"made": "missed"
+},
+{
+"x": 26,
+"y": 6,
+"made": "missed"
+},
+{
+"x": 37,
+"y": 29,
+"made": "missed"
+},
+{
+"x": 18,
+"y": 20,
+"made": "missed"
+},
+{
+"x": 26,
+"y": 7,
+"made": "missed"
+},
+{
+"x": 12,
+"y": 11,
+"made": "made"
+},
+{
+"x": 35,
+"y": 22,
+"made": "made"
+},
+{
+"x": 29,
+"y": 29,
+"made": "missed"
+},
+{
+"x": 24,
+"y": 6,
+"made": "made"
+},
+{
+"x": 11,
+"y": 6,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 22,
+"made": "made"
+},
+{
+"x": 23,
+"y": 6,
+"made": "made"
+},
+{
+"x": 41,
+"y": 8,
+"made": "missed"
+},
+{
+"x": 10,
+"y": 16,
+"made": "made"
+},
+{
+"x": 19,
+"y": 11,
+"made": "missed"
+},
+{
+"x": 23,
+"y": 7,
+"made": "missed"
+},
+{
+"x": 25,
+"y": 7,
+"made": "made"
+},
+{
+"x": 25,
+"y": 7,
+"made": "made"
+},
+{
+"x": 24,
+"y": 6,
+"made": "made"
+},
+{
+"x": 49,
+"y": 6,
+"made": "made"
+},
+{
+"x": 25,
+"y": 7,
+"made": "made"
+},
+{
+"x": 27,
+"y": 6,
+"made": "made"
+},
+{
+"x": 22,
+"y": 31,
+"made": "missed"
+}
+]
+}

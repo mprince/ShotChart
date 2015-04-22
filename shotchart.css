@@ -1,0 +1,16 @@
+svg .boundary {
+	stroke: black; 
+    stroke-width: 8;
+}
+
+#intro {
+	color: orange;
+}
+
+#home {
+	color: orange;
+}
+
+#away {
+	color: orange;
+}

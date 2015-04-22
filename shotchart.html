@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Shot Chart</title>
+        <script src = "http://d3js.org/d3.v3.min.js"></script>
+        <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+        <link rel="stylesheet" href="shotchart.css">
+    </head>
+    <body background="nba-logo-on-grey-brick-wal.jpg">
+
+        <div class="container form-inline">
+            <h2>Shot Chart</h2>
+            <select class="form-control col-md-8" name="games" id="games">
+                <option value=""></option>
+                <option value="20061031.CHIMIA">20090410.UTASAS</option>
+            </select>
+            <button id="getData" class="btn btn-default col-md-2">Get Data</button>
+        </div>
+        <br>
+        <div class="container">
+            <div class="row">       
+            <div id="shotChart" class="col-md-6">
+            <!-- draws the basketball court -->
+                <svg id="court" width="500" height="470">
+                    <defs>
+                        <pattern id="floor" patternUnits="userSpaceOnUse" width="500" height="470">
+                            <image x="0" y="0" width="512" height="512" xlink:href="floor.jpg"></image>
+                        </pattern>
+                    </defs>
+                    <g class="court_container">
+                        <!-- Boundary -->
+                        <rect x="0" y="0" width="500" height="470" fill="url(#floor)"></rect>
+                        <!-- Basket -->
+                        <circle cx="250" cy="47" r="7" stroke="#000" stroke-width="3" fill="none"></circle>
+                        <!-- Backboard -->
+                        <rect x="220" y="35" width="60" height="5" fill="#000"></rect>
+                        <!-- Restricted Arc-->
+                        <path d="M210,35 L210,47 A40,40 0 0,0 290,47 L290,35" stroke="#ccc" stroke-width="3" fill="none"></path>
+                        <!-- Key -->
+                        <rect x="190" y="0" width="120" height="190" stroke="#ccc" stroke-width="3" fill="none"></rect>
+                        <circle cx="250" cy="190" r="60" stroke="#ccc" fill="none" stroke-width="3" fill="none"></circle>
+                        <!-- 3 Pt Arc -->
+                        <path d="M30,0 l0,141" stroke="#ccc" fill="none" stroke-width="3"></path>
+                        <path d="M470,0 l0,141" stroke="#ccc" fill="none" stroke-width="3"></path>
+                        <path d="M30,141 A237,237 0 0,0 250,287 A237,237 0 0,0 470,141" stroke="#ccc" stroke-width="3" fill="none"></path>
+                        <!-- Halfway Circle -->
+                        <path d="M310,470 A50,50 0 0,0 190,470" stroke="#ccc" fill="none" stroke-width="3"></path>
+                    </g>
+                </svg>
+            </div>
+
+            <h4 id="intro"></h4>
+            <div id="players" class="container" style="display: none">
+            <div class = "col-md-3"> 
+                <ul class="nav nav-list">
+                    <li id="home" class="nav-header"></li>
+                    <li><a href="#">UTA</a></li>
+                    <li><a href="#" >Andrei Kirilenko</a></li>
+                    <li><a href="#">Deron Williams</a></li>
+                    <li><a href="#">Carlos Boozer</a></li>
+                    <li><a href="#">Ronnie Brewer</a></li>
+                    <li><a href="#">Mehmet Okur</a></li>
+                    <li><a href="#">Kyle Korver</a></li>
+                    <li><a href="#">Paul Millsap</a></li>
+                </ul>
+            </div>
+            <div class = "col-md-3">
+                <ul class="nav nav-list">
+                    <li id="away" class="nav-header"></li>
+                    <li><a href="#">SAS</a></li>
+                    <li><a href="#">Tim Duncan</a></li>
+                    <li><a href="#">Roger Mason</a></li>
+                    <li><a href="#">Tony Parker</a></li>
+                    <li><a href="#">Drew Gooden</a></li>
+                    <li><a href="#">Michael Finley</a></li>
+                    <li><a href="#">Ime Udoka</a></li>
+                    <li><a href="#">Kurt Thomas</a></li>
+                    <li><a href="#">Matt Bonner</a></li>
+                    <li><a href="#">Bruce Bowen</a></li>
+                </ul>
+            </div>
+            </div>
+        </div>
+        </div>
+
+        <!-- div holds the player name and fg%  -->
+        <div id = "info" class = "col-md-6">
+        </div>
+    <script type="text/javascript" src="data.js"></script>
+    </body>
+</html>
